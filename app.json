@@ -1,0 +1,26 @@
+{
+  "id": "7e2664e9-811a-4140-b188-3c15e2671544",
+  "name": "NuomosProjektas",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://NuomosProjektas.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
